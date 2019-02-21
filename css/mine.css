@@ -207,7 +207,7 @@ body {
 
 .mine_block>div:active .max_block {
     width: 170%;
-    height: 210%;
+    height: 150%;
 }
 .mine_block>div:active p{
     font-size: 15px;
